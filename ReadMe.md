@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a AI project to predict F1 race winners.<br>🌱 I’m currently learning more and more about AI and data science.<br>💬 Ask me about how to break something that was working… and then fix it even better.<br>
+🔭 I’m currently working on a AI project to predict fantasy's players point of La Liga.<br>🌱 I’m currently learning more and more about AI and data science.<br>💬 Ask me about how to break something that was working… and then fix it even better.<br>
 
 
 ## 🌐 Socials:
